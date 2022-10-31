@@ -19,3 +19,5 @@ In this project, I have developed a fingerprint liveness detection system using 
 * scipy
 * matplotlib
 
+![Screenshot](loss of the model.png)
+
