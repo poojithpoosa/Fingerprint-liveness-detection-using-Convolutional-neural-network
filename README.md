@@ -9,7 +9,8 @@ link of the dataset: https://www.kaggle.com/datasets/ruizgara/socofing
 ### Methodology 
 In this project, I have developed a fingerprint liveness detection system using convolutional neural networks. I have used a SOCOFing dataset which is a standard dataset for checking the liveness of the fingerprints. This project is based on computer vision technology where we make computer understand the content of the digital image. In this project I have used 2 preprocessing techniques known as Gabor filter and web local descriptor. Many CV algorithms depend on local features and related descriptors, which are compact vector representations of a small area, to improve the image's hidden textures. These methods are better equipped to deal with changes in size, rotation, and occlusion because to the use of local features. For feature extraction I have used 3-layer CNN layer and for classification I have used 2-layer dense layers.
 
-
+## project work flow
+![image](https://user-images.githubusercontent.com/61981756/199001340-4664cbcc-8d47-4544-8499-7faaf40f453a.png)
 
 ## technologies :
 
@@ -19,5 +20,8 @@ In this project, I have developed a fingerprint liveness detection system using 
 * scipy
 * matplotlib
 
-![Screenshot](loss of the model.png)
+results:
 
+![image](https://user-images.githubusercontent.com/61981756/199001409-e6ce6b8e-ecfe-4e87-83db-89a218ceae39.png)
+
+![image](https://user-images.githubusercontent.com/61981756/199001439-7dca0d9d-9ab6-4d98-bf2f-8f94b777aee6.png)
