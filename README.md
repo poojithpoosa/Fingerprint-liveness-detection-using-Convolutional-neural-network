@@ -1,1 +1,4 @@
-hello
+### Fingerprint-liveness-detection-using-Convolutional-neural-network
+
+
+According to recent studies, fingerprint scanners constructed of plastic, clay, Play-Doh, silicone, or gelatine may be fooled using a few easy procedures. Liveness detection techniques examine the liveliness of fingers being recorded for registration or authentication, thereby protecting against spoofing. The ridge-valley structure of fingerprint pictures is used to analyse the texture of the fingerprints. A fake finger has a different texture when put on a fingerprint scanner because of the features of the material. With the help of the Gabor filter and Weber local descriptor, I have captured those hidden textures and features in the fingerprints by using the LivDet 2015 dataset as input. Using the textured data, I have classified the dataset using the CNN model. I have got 97.34% accuracy and lost 0.127.
